@@ -1,0 +1,15 @@
+{
+  "name": "2.3-npm",
+  "version": "1.0.0",
+  "description": "I am learning about NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Famba Abdulnassiir",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "super-heroes": "^1.0.0"
+  }
+}

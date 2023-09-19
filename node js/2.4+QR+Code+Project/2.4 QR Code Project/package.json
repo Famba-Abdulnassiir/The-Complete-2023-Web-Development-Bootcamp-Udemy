@@ -1,0 +1,16 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "This a QR-Code Generator using node js from a udemy course, we shall utlise two packages to pull this off, inquirer for asking an input from a user and qr-image that will help turn our url into an image.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Famba Abdulnassiir",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  }
+}

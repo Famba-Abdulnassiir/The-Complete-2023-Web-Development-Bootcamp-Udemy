@@ -1,0 +1,3 @@
+Hello from Famba
+Ensure your file is Writen in "utf8" for it to read the content in the .txt.
+file reading and writing worked.
